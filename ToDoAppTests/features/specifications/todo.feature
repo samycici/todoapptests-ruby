@@ -1,5 +1,5 @@
 # language: pt
-Funcionalidade: Todo
+Funcionalidade: Criar um ToDo
 
   Contexto: Home do TodoApp
     Dado que eu esteja na home do TodoApp
